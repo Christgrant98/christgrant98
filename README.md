@@ -30,9 +30,8 @@
 <h3 align="center">Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,flutter,redux,html,css,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,postgresql,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=react,flutter,redux,html,css,typescript,ruby,rails,nodejs,postgresql,firebase,git,github,vscode,postman,figma,androidstudio" /><br>
+
 </div>
 
 <hr/>
