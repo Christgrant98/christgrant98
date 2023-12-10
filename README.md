@@ -12,7 +12,7 @@
  <p>🔭 I’m Chris</p>
  <p>hey</p>
  
-<div align="left"> 
+<div align="right"> 
   <a href="mailto:christian.garcerant@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -28,7 +28,7 @@
  
 <h3 align="left">Languages-Frameworks-Tools ⚒️</h3>
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,flutter,redux,html,css,typescript,ruby,rails,nodejs,postgresql,firebase,git,github,vscode,postman,figma,androidstudio" /><br>
 
 </div>
