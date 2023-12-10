@@ -52,9 +52,7 @@
 <br>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=christgrant98&theme=whatsapp-dark&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Streak" /></a>
- <img width=390 src="https://github-readme-stats.vercel.app/api?username=christgrant98&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
- 
+
 </div>
 
 
