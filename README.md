@@ -10,6 +10,12 @@
  <p>
 👋 Greetings! With 2 years of experience, I specialize in Flutter and React technologies, crafting seamless solutions for web and mobile platforms. Driven by a passion for continuous learning, I am always on the lookout for opportunities that push me to the next level in the dynamic world of tech.
 </p>
+
+<p>☕ Coffee enthusiast</p>
+<p>🌎 Always open to new journeys</p>
+<p>🧠 Continuously learning and growing</p>
+<p>⚛️ Habits enhance your reality</p>
+
  
 <div align="right"> 
   <a href="mailto:christian.garcerant@gmail.com">
