@@ -31,7 +31,7 @@
 
  <hr/>
  
-<h3 align="left">Languages-Frameworks-Tools ⚒️</h3>
+<h3 align="left">Skills Badges🚀</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,flutter,redux,html,css,typescript,ruby,rails,nodejs,postgresql,firebase,git,github,vscode,postman,figma,androidstudio" /><br>
@@ -42,7 +42,7 @@
 
 
 
-<h3 align="center">⚡ Stats ⚡</h3>
+<h3 align="center"> Github Stats🎯</h3>
 <br>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=christgrant98&theme=whatsapp-dark&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Streak" /></a>
