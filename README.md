@@ -3,7 +3,7 @@
 <h1 align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=27&duration=3500&pause=500&color=8A40FF&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+Github!%F0%9F%9A%80;This+is+Christian+Garcerant" alt="Typing SVG" /></a>
 
-**`Full-stack developer (Web/Mobile/Creator)`** 
+<small><strong>`Full-stack developer (Web/Mobile/Creator)`</strong></small>
 <h3 align="left">A passionate software developer from the world </h3>
 
 <br/>
