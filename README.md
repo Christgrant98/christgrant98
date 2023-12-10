@@ -27,7 +27,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h3 align="center">Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,flutter,redux,html,css,typescript" /><br>
@@ -35,20 +35,11 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio" /><br>
 </div>
 
-<br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/christgrant98/christgrant98/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
 <br>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=christgrant98&theme=whatsapp-dark&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Streak" /></a>
