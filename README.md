@@ -7,10 +7,9 @@
 
 <small><strong>`Full-stack developer`</strong></small>
 <br/>
- <p>🔭 I’m Chris</p>
- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit magnis accumsan integer lectus varius porta ac pellentesque, bibendum nostra inceptos egestas rhoncus primis molestie orci habitasse porttitor risus curae cubilia.</p>
- <p>🔭 I’m Chris</p>
- <p>hey</p>
+ <p>
+👋 Greetings! With 2 years of experience, I specialize in Flutter and React technologies, crafting seamless solutions for web and mobile platforms. Driven by a passion for continuous learning, I am always on the lookout for opportunities that push me to the next level in the dynamic world of tech.
+</p>
  
 <div align="right"> 
   <a href="mailto:christian.garcerant@gmail.com">
