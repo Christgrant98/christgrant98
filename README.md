@@ -5,7 +5,7 @@
 
 <h3 align="left"></h3>
 
-<small><strong>`A passionate software developer from the world`</strong></small>
+<small><strong>`A passionate software developer from Colombia`</strong></small>
 <br/>
  <p>
 👋 Greetings! With almost 2 years of experience, I specialize in Flutter and React technologies, crafting seamless solutions for web and mobile platforms. Driven by a passion for continuous learning, I am always on the lookout for opportunities that push me to the next level in the dynamic world of tech.
