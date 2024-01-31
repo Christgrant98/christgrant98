@@ -8,7 +8,7 @@
 <small><strong>`A passionate software developer from Colombia`</strong></small>
 <br/>
  <p>
-👋 Greetings! With almost 2 years of experience, I specialize in Flutter and React technologies, crafting seamless solutions for web and mobile platforms. Driven by a passion for continuous learning, I am always on the lookout for opportunities that push me to the next level in the dynamic world of tech.
+👋 Greetings! With over 2 years of experience, I specialize in Flutter and React technologies, crafting seamless solutions for web and mobile platforms. Driven by a passion for continuous learning, I am always on the lookout for opportunities that push me to the next level in the dynamic world of tech.
 </p>
 <br/>
 <p>🌎 Always open to new journeys</p>
@@ -34,7 +34,7 @@
 <h3 align="left">Skills Badges🚀</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,redux,html,css,typescript,ruby,rails,postgresql,firebase,git,github,vscode,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,redux,html,css,typescript,javascript,ruby,rails,nodejs,postgresql,mongodb,expressjs,firebase,git,github,vscode,postman" /><br>
 
 </div>
 
